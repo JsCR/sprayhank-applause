@@ -3,10 +3,13 @@
   "version": "2.0.4",
   "description": "Human-friendly replacements.",
   "license": "MIT",
-  "repository": "outaTiME/applause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JsCR/sprayhank-applause.git"
+  },
   "author": {
-    "name": "outaTiME",
-    "email": "afalduto@gmail.com",
+    "name": "sprayhank",
+    "email": "671064591@qq.com",
     "url": "https://outa.im"
   },
   "exports": "./index.js",
